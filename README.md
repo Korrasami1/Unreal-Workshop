@@ -12,7 +12,10 @@ It is broken up into three segments
 - Setting up a Character
   - Enhanced Input
   - Character Movement
-- Animations
-- Physics
 - Collision Detection
 - Timelines/Lerps
+
+## Part 2 - VFX
+- Particle Systems
+- Materials
+- UI
