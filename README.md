@@ -6,7 +6,7 @@ It is broken up into three segments
 - VFX
 - Cinematics
 
-##Part 1 - Gameplay
+## Part 1 - Gameplay
 - How Unreal Engine Works
 - Setting up a Character
   - Enhanced Input
