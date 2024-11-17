@@ -8,6 +8,7 @@ It is broken up into three segments
 
 ## Part 1 - Gameplay
 - How Unreal Engine Works
+- Building our Scene
 - Setting up a Character
   - Enhanced Input
   - Character Movement
