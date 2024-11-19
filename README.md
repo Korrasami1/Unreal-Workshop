@@ -19,3 +19,7 @@ It is broken up into three segments
 - Particle Systems
 - Materials
 - UI
+
+## Part 3 - Cinematics
+- Sequencer
+- Camera Possession
