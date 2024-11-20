@@ -22,4 +22,5 @@ It is broken up into three segments
 
 ## Part 3 - Cinematics
 - Sequencer
-- Camera Possession
+- Camera Possession (Triggering Cutscenes)
+- Camera Rigs
