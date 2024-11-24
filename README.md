@@ -6,6 +6,8 @@ It is broken up into three segments
 - VFX
 - Cinematics
 
+There are tags, Part_One, Part_Two, Part_Three, Part_Three_Alternate. 
+
 ## Part 1 - Gameplay
 - How Unreal Engine Works
 - Building our Scene
@@ -24,3 +26,6 @@ It is broken up into three segments
 - Sequencer
 - Camera Possession (Triggering Cutscenes)
 - Camera Rigs
+
+Check out develop for all three parts.
+Check out cinematics_alternate branch for rigging and slightly better camera work.
