@@ -8,6 +8,8 @@ It is broken up into three segments
 
 There are tags, Part_One, Part_Two, Part_Three, Part_Three_Alternate. 
 
+Workshop Instructions via PowerPoint Presentation: https://docs.google.com/presentation/d/1_PtRSfsH9SAA7Zh_QGXbSDipgFdFOrg2/edit?usp=sharing&ouid=104714950103209079445&rtpof=true&sd=true 
+
 ## Part 1 - Gameplay
 - How Unreal Engine Works
 - Building our Scene
